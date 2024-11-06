@@ -1,0 +1,20 @@
+{
+  "name": "teste-2-aula-2-programa-o",
+  "version": "1.0.0",
+  "description": "Teste node ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinhapinha/Teste-2-aula-2-programa-o.git"
+  },
+  "author": "Carolina Pinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolinhapinha/Teste-2-aula-2-programa-o/issues"
+  },
+  "homepage": "https://github.com/carolinhapinha/Teste-2-aula-2-programa-o#readme"
+}
